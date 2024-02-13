@@ -41,6 +41,15 @@ header {
     padding: 10px;
 }
 
+#info-container .already-joined-msg {
+    margin: 15px 0;
+    color: #004085;
+    background-color: #cce5ff;
+    border: 1px solid #b8daff;
+    padding: 10px;
+    width: 275px;
+}
+
 /* navbar */
 #navbar img {
     width: 50px;
@@ -207,6 +216,12 @@ header {
 
 .dashboard-events-container form {
     display: inline-block;
+}
+
+/* Edit page  */
+.img-preview {
+    width: 100px;
+    margin-top: 20px;
 }
 
 /* footer  */
